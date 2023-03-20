@@ -1,6 +1,6 @@
 [![Header](https://github.com/Vasyanel69/Vasyanel69/blob/main/assets/logo.jpg)]
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a beginner QA Engineer. 
+## I am currently looking for a job as a junior QA engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
