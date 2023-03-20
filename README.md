@@ -1,4 +1,4 @@
-[![Header](https://github.com/Vasyanel69/Vasyanel69/blob/main/assets/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.jpg)]
+[![Header](https://github.com/Vasyanel69/Vasyanel69/blob/main/assets/logo.jpg)]
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
