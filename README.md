@@ -1,8 +1,9 @@
 ![Header](https://github.com/Vasyanel69/Vasyanel69/blob/main/assets/Logo2.jpg)
-## I'm a beginner QA Engineer. 
-## I am currently looking for a job as a junior QA engineer. 
+## I'm a QA Engineer. 
+## I am currently looking for a job as a QA engineer. 
 ## My CV
-[Link to my CV]()
+[Link to my CV](www.linkedin.com/in/
+vasya-ryabchikov)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
