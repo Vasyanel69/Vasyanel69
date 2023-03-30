@@ -2,8 +2,7 @@
 ## I'm a QA Engineer. 
 ## I am currently looking for a job as a QA engineer. 
 ## My CV
-[Link to my CV](www.linkedin.com/in/
-vasya-ryabchikov)
+[Link to my CV](https://drive.google.com/file/d/1SSc7b_kgWgvwuL6OUM005bRozs4X55ov/view?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
