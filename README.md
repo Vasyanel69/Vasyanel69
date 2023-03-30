@@ -22,7 +22,7 @@
 - [Checklists](https://github.com/Vasyanel69/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/Vasyanel69/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/Vasyanel69/Bug-Reports.git)
-- [SQL Queries](https://github.com/Vasyanel69/SQL-Queries.git)
+- [SQL Queries](https://drive.google.com/drive/folders/1txm_iyAzMoPko_-HHHCs9XKrDz9IbXrz?usp=share_link)
 - [Postman Collections](https://github.com/Vasyanel69/Postman-Collections.git)
 
 ### Follow Me
