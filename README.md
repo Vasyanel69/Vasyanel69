@@ -2,7 +2,7 @@
 ## I'm a QA Engineer. 
 ## I am currently looking for a job as a QA engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1o3nJjkeFlgXS0fEnm_GKnIUbbxLuXa3y/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1_NvZLgRkZZg7RxTiDeZfSO-tJevya6lA/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
